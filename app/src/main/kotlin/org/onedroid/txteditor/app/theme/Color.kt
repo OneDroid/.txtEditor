@@ -1,4 +1,4 @@
-package org.onedroid.txteditor.ui.theme
+package org.onedroid.txteditor.app.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -10,9 +10,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.TxtEditor"
+        android:windowSoftInputMode="adjustResize"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".presentation.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.TxtEditor">
             <intent-filter>
